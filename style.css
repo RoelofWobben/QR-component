@@ -99,7 +99,7 @@
   }
 
   .attribution {
-    position: sticky;
+    position: fixed;
     bottom : 0 ; 
     font-size: 11px;
     text-align: center;
