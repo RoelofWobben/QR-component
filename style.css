@@ -69,7 +69,9 @@
 
   main {
     display: flex ; 
-    flex-grow:  1 ;
+    align-items: center;
+    flex-grow:   1; 
+   
   }
 
   .card { 
