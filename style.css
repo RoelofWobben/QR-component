@@ -85,7 +85,7 @@
 
   .card { 
     background-color: var(--color-white); 
-    width: 20rem; 
+    max-width: 320px; 
     margin: 0 auto ;
     margin-top: 2em; 
     padding: 1em ;
